@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:enabled="true"
+        android:title="@string/home"
+        android:id="@+id/bottom_menu_home"
+        android:icon="@drawable/ic_round_home_24"
+        />
+
+    <item
+        android:enabled="true"
+        android:title="@string/live_event"
+        android:id="@+id/bottom_menu_live_event"
+        android:icon="@drawable/ic_baseline_connected_tv_24"
+        />
+
+    <item
+        android:enabled="true"
+        android:title="@string/live_tv"
+        android:id="@+id/bottom_menu_livetv"
+        android:icon="@drawable/ic_baseline_live_tv_24"
+        />
+
+    <item
+        android:enabled="true"
+        android:title="@string/library"
+        android:id="@+id/bottom_menu_library"
+        android:icon="@drawable/ic_baseline_video_library_24"
+        />
+
+    <item
+        android:enabled="true"
+        android:title="@string/account"
+        android:id="@+id/bottom_menu_account"
+        android:icon="@drawable/ic_baseline_person_24"
+        />
+
+</menu>

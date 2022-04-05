@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ItcrPlayground</string>
+    <string name="home">home</string>
+    <string name="live_event">Live Event</string>
+    <string name="live_tv">Live Tv</string>
+    <string name="library">Library</string>
+    <string name="account">Account</string>
+    <string name="rctiplus_com">itcrplus.com</string>
+    <string name="view_pager">view pager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_video">Fragment Video</string>
+    <string name="fragment_news">Fragment News</string>
+    <string name="fragment_audio">Fragment Audio</string>
+    <string name="fragment_hot">Fragment Hot</string>
+    <string name="fragment_games">Fragment Games</string>
+</resources>
